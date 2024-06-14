@@ -151,7 +151,7 @@
 <!-- footer -->
 <footer class="footer-area pb-70">
     <div class="container">
-        <div class="footer-border pt-100">
+        <div class="footer-border  pt-100">
             <div class="row">
                 <div class="col-lg-2 col-md-4 col-sm-4">
                     <div class="copyright mb-30">
@@ -163,7 +163,7 @@
                         <p>© 2021 <a href="('#">Flone</a>.<br> All Rights Reserved</p>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-sm-4">
+                {{-- <div class="col-lg-2 col-md-4 col-sm-4">
                     <div class="footer-widget mb-30 ml-30">
                         <div class="footer-title">
                             <h3>ABOUT US</h3>
@@ -230,7 +230,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>

@@ -38,7 +38,7 @@
             <div class="collection-active owl-carousel owl-dot-none">
                 <div class="collection-product">
                     <div class="collection-img">
-                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm8-pro-1.jpg') }}"></a>
+                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm29-pro-12.jpg') }}"></a>
                     </div>
                     <div class="collection-content text-center">
                         <span>4 Products</span>
@@ -47,7 +47,7 @@
                 </div>
                 <div class="collection-product">
                     <div class="collection-img">
-                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm8-pro-2.jpg') }}"></a>
+                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm29-pro-11.jpg') }}"></a>
                     </div>
                     <div class="collection-content text-center">
                         <span>4 Products</span>
@@ -56,7 +56,7 @@
                 </div>
                 <div class="collection-product">
                     <div class="collection-img">
-                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm8-pro-3.jpg') }}"></a>
+                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm29-pro-9.jpg') }}"></a>
                     </div>
                     <div class="collection-content text-center">
                         <span>4 Products</span>
@@ -65,7 +65,7 @@
                 </div>
                 <div class="collection-product">
                     <div class="collection-img">
-                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm8-pro-4.jpg') }}"></a>
+                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm29-pro-6.jpg') }}"></a>
                     </div>
                     <div class="collection-content text-center">
                         <span>4 Products</span>
@@ -74,7 +74,7 @@
                 </div>
                 <div class="collection-product">
                     <div class="collection-img">
-                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm8-pro-2.jpg') }}"></a>
+                        <a href="product-details.html"><img src="{{asset('assets/img/product/hm29-pro-1.jpg') }}"></a>
                     </div>
                     <div class="collection-content text-center">
                         <span>4 Products</span>

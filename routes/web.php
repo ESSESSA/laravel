@@ -31,7 +31,7 @@ Route::post('/contact', [WebsiteController::class,'Contact'])->name('website.con
 Route::get('/presentation', [WebsiteController::class,'Presentation'])->name('website.presentation');
 Route::get('/produits', [WebsiteController::class,'Produits'])->name('website.produits');
 Route::get('/checkout', [WebsiteController::class,'checkout'])->name('website.checkout');
-Route::middleware (['auth'])->group (function(){
+Route::middleware (['auth'])->group(function(){
 Route::resource('categories',categoriescontroller::class);
 Route::resource('products',Productscontroller::class);
 });

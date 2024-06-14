@@ -66,7 +66,7 @@
                             <div class="col-md-6">
                                 <select id="role" class="form-control @error('role') is-invalid @enderror" name="role" value="{{ old('role') }}" required autocomplete="">
                                 <option value="">--- choisir le role ---</option>
-                                <option value="admin">Admin</option>
+                                <option value="admin">admin</option>
                                 <option value="employe">employé</option>
 
                                 </select>

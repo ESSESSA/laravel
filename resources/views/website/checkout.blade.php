@@ -23,7 +23,7 @@ Cliquer sur le bouton <b>Place order</b> pour valider votre commande.
                             <div class="billing-info mb-20">
                                 <label> Name</label>
                                 <input type="text" name="name" id="name">
-                    </form>
+                    
                             </div>
                         </div>
                     </div>
@@ -33,6 +33,8 @@ Cliquer sur le bouton <b>Place order</b> pour valider votre commande.
                         <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required>
                         <button class="btn-hover checkout-btn" type="submit">register</button>
                     </div>
+                    </form>
+
                     <div class="additional-info-wrap">
                         <h4>Additional information</h4>
                         <div class="additional-info">

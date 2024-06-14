@@ -87,7 +87,7 @@ class Productscontroller extends Controller
             "price"=>"numeric|required",
             "photo1"=>"image|mimes:jpeg,png,jpg,gif|max:2048",
             "photo2"=>"image|mimes:jpeg,png,jpg,gif|max:2048",
-            "category_id"=>"required|numeric",
+            "category_id"=>"",
             ]);
 
             $inputs=$request->all();
